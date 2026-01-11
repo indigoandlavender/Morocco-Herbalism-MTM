@@ -1,0 +1,1785 @@
+{
+  "HERB_001": {
+    "title": "Spearmint",
+    "summary": "The foundation of Moroccan mint tea and one of the most ubiquitous herbs in daily life. Fresh bundles are kept in homes year-round, used for tea preparation, cooking, and as a symbol of hospitality.",
+    "sections": {
+      "Identification": [
+        "Bright green pointed leaves with serrated edges",
+        "Square stem typical of mint family",
+        "Distinct cool, sweet aroma when crushed",
+        "Grows in bushy clumps when cultivated"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold in large fresh bundles at every souk and grocery",
+        "Grown in home gardens and on farms throughout the country",
+        "Added to the iconic atay (mint tea) preparation",
+        "Used fresh in salads and cooked dishes"
+      ],
+      "Traditional_uses": [
+        "Household infusion for digestive comfort after meals",
+        "General refreshment in hot weather",
+        "Added to tea for daily enjoyment"
+      ],
+      "Preparation_forms": [
+        "Fresh leaves in tea",
+        "Dried for winter use",
+        "Infusion alone without tea"
+      ],
+      "Notes_on_variation": [
+        "Moroccan spearmint considered particularly aromatic",
+        "Several local varieties exist with subtle differences"
+      ],
+      "Cautions": [
+        "Generally safe in culinary amounts",
+        "Concentrated preparations may cause discomfort in sensitive individuals"
+      ]
+    },
+    "related_plants": ["HERB_021", "HERB_020", "HERB_006"],
+    "tags": ["season:year-round", "region:widespread", "form:fresh", "form:infusion", "use:culinary", "use:digestive"]
+  },
+  "HERB_002": {
+    "title": "Thyme",
+    "summary": "A cornerstone of Moroccan herbal practice, gathered wild from mountain slopes. Prepared as winter infusions and used in fumigation. Central to household wellness routines in colder months.",
+    "sections": {
+      "Identification": [
+        "Small woody shrub with tiny grey-green leaves",
+        "Highly aromatic when crushed or dried",
+        "Pink or white flowers in summer",
+        "Grows wild on rocky, dry slopes"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Gathered wild from Atlas and Rif mountains",
+        "Sold dried in bundles at herbal shops (attarine)",
+        "Used in cooking for tagines and marinades",
+        "Burned for household fumigation"
+      ],
+      "Traditional_uses": [
+        "Winter infusion for respiratory and digestive comfort",
+        "Aromatic fumigation in households",
+        "Added to bread and grilled meats"
+      ],
+      "Preparation_forms": [
+        "Dried bundles for infusion",
+        "Fresh or dried in cooking",
+        "Burned for aromatic smoke"
+      ],
+      "Notes_on_variation": [
+        "Wild Moroccan thyme more pungent than cultivated European varieties",
+        "Several Thymus species grow in Morocco"
+      ],
+      "Cautions": [
+        "Avoid large quantities during pregnancy",
+        "May irritate sensitive skin in concentrated form"
+      ]
+    },
+    "related_plants": ["HERB_005", "HERB_003", "HERB_022"],
+    "tags": ["season:spring", "season:summer", "region:atlas", "region:rif", "form:dried", "form:infusion", "use:respiratory", "use:digestive"]
+  },
+  "HERB_003": {
+    "title": "Rosemary",
+    "summary": "Abundant wild shrub found across Moroccan mountains. Used in cooking, as a hair rinse, and for its invigorating scent. The Arabic name 'Azir' means 'that which gives strength.'",
+    "sections": {
+      "Identification": [
+        "Woody evergreen shrub with needle-like leaves",
+        "Strong piney, camphoraceous scent",
+        "Blue flowers in spring",
+        "Can grow quite large in wild conditions"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Wild on mountain hillsides throughout the country",
+        "Sold fresh and dried in souks",
+        "Hydrosol (maazhar) distilled locally",
+        "Used extensively in cooking"
+      ],
+      "Traditional_uses": [
+        "Infusion for general invigoration",
+        "Hair rinse for strengthening and shine",
+        "Sprigs in storage areas"
+      ],
+      "Preparation_forms": [
+        "Fresh sprigs",
+        "Dried bundles",
+        "Hydrosol (distilled water)"
+      ],
+      "Notes_on_variation": [
+        "Wild Moroccan rosemary highly aromatic",
+        "Quality varies by region and altitude"
+      ],
+      "Cautions": [
+        "Avoid therapeutic doses during pregnancy",
+        "Not for those with seizure disorders in concentrated form"
+      ]
+    },
+    "related_plants": ["HERB_002", "HERB_019", "HERB_004"],
+    "tags": ["season:year-round", "region:atlas", "region:rif", "form:fresh", "form:dried", "form:hydrosol", "use:hair", "use:aromatic"]
+  },
+  "HERB_004": {
+    "title": "Sage",
+    "summary": "Aromatic herb used primarily for oral care and as a general household infusion. Less prominent than thyme but valued for its strong character and traditional applications.",
+    "sections": {
+      "Identification": [
+        "Grey-green velvety leaves",
+        "Strongly aromatic, slightly bitter scent",
+        "Purple-blue flowers",
+        "Woody base when mature"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Found wild on dry rocky slopes in mountain regions",
+        "Sold dried in herbal shops",
+        "Less common than thyme but readily available"
+      ],
+      "Traditional_uses": [
+        "Infusion used as a mouth rinse for oral care",
+        "General household tea for comfort",
+        "Occasionally in meat dishes"
+      ],
+      "Preparation_forms": [
+        "Dried leaves for infusion",
+        "Mouth rinse preparation"
+      ],
+      "Notes_on_variation": [
+        "Several Salvia species exist in Morocco",
+        "Wild varieties may differ from cultivated"
+      ],
+      "Cautions": [
+        "Avoid during pregnancy and breastfeeding",
+        "Not for prolonged daily use",
+        "Contains thujone which requires moderation"
+      ]
+    },
+    "related_plants": ["HERB_002", "HERB_003", "HERB_022"],
+    "tags": ["season:spring", "season:summer", "region:atlas", "form:dried", "form:infusion", "use:oral"]
+  },
+  "HERB_005": {
+    "title": "Oregano",
+    "summary": "Often sold interchangeably with thyme under the name 'zaatar.' Used for digestive comfort and as a warming culinary herb, particularly in northern Morocco.",
+    "sections": {
+      "Identification": [
+        "Small rounded leaves on branching stems",
+        "Warm, peppery aroma",
+        "Pink or white flower clusters",
+        "Grows wild on hillsides"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Wild in Rif and northern mountains",
+        "Often mixed with or sold as zaatar",
+        "Used in meat dishes and grilled foods"
+      ],
+      "Traditional_uses": [
+        "Infusion for digestive comfort",
+        "Warming preparation in cold weather"
+      ],
+      "Preparation_forms": [
+        "Dried for cooking and infusion",
+        "Fresh when available"
+      ],
+      "Notes_on_variation": [
+        "Often confused with or sold alongside thyme",
+        "Zaatar name used for both herbs regionally"
+      ],
+      "Cautions": [
+        "Generally safe in culinary use",
+        "Avoid concentrated oil during pregnancy"
+      ]
+    },
+    "related_plants": ["HERB_002", "HERB_022", "HERB_003"],
+    "tags": ["season:summer", "region:rif", "region:atlas", "form:dried", "use:digestive", "use:culinary"]
+  },
+  "HERB_006": {
+    "title": "Chamomile",
+    "summary": "One of the most popular household infusions in Morocco. Given to children and adults alike for calming and digestive ease. The dried flowers are a staple in every herbal shop.",
+    "sections": {
+      "Identification": [
+        "Small daisy-like flowers with white petals and yellow centers",
+        "Feathery, finely divided leaves",
+        "Sweet, apple-like fragrance",
+        "Annual plant growing in fields"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Grows wild in plains and fields",
+        "Sold dried in every herbal shop and pharmacy",
+        "One of the most common household infusions"
+      ],
+      "Traditional_uses": [
+        "Calming infusion for all ages",
+        "Digestive comfort after meals",
+        "Given to children for fussiness",
+        "Hair rinse for lightening"
+      ],
+      "Preparation_forms": [
+        "Dried flower heads for infusion",
+        "Eye compresses",
+        "Hair rinse"
+      ],
+      "Notes_on_variation": [
+        "German chamomile most common",
+        "Roman chamomile also exists but less common"
+      ],
+      "Cautions": [
+        "Rare allergies in those sensitive to Asteraceae family",
+        "Cross-reactivity with ragweed possible"
+      ]
+    },
+    "related_plants": ["HERB_020", "HERB_019", "HERB_022"],
+    "tags": ["season:spring", "region:plains", "form:dried", "form:infusion", "use:calming", "use:digestive"]
+  },
+  "HERB_007": {
+    "title": "Wormwood (Shiba)",
+    "summary": "An intensely bitter herb used only in very small quantities. Known for its strong digestive bitters and vermifuge properties. Requires knowledgeable use due to toxicity concerns.",
+    "sections": {
+      "Identification": [
+        "Silvery-grey finely divided leaves",
+        "Intensely bitter taste and pungent aroma",
+        "Small yellow flower heads",
+        "Shrubby perennial"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Found wild in Atlas mountains",
+        "Sold dried in small quantities at herbal shops",
+        "Known as a powerful bitter preparation"
+      ],
+      "Traditional_uses": [
+        "Very small amounts as digestive bitter",
+        "Traditional vermifuge (anti-parasitic)",
+        "Bundles hung to repel insects"
+      ],
+      "Preparation_forms": [
+        "Dried for weak infusion only",
+        "Hung for insect repelling"
+      ],
+      "Notes_on_variation": [
+        "Different from Artemisia herba-alba (chih) though related",
+        "This species (absinthium) is more potent"
+      ],
+      "Cautions": [
+        "TOXIC in large doses - use minimal quantities only",
+        "NEVER during pregnancy",
+        "Not for children",
+        "Not for prolonged use",
+        "Contains thujone which can cause seizures"
+      ]
+    },
+    "related_plants": ["HERB_050", "HERB_008", "HERB_039"],
+    "tags": ["season:summer", "region:atlas", "form:dried", "use:digestive", "caution:toxic"]
+  },
+  "HERB_008": {
+    "title": "Rue",
+    "summary": "A powerful plant used almost exclusively for ritual purposes and protective fumigation. Rarely ingested due to toxicity. Handle with care as it causes skin photosensitivity.",
+    "sections": {
+      "Identification": [
+        "Blue-green deeply lobed leaves",
+        "Strong, unpleasant acrid odor",
+        "Yellow flowers",
+        "Woody base"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Grown in gardens and found in markets",
+        "Used primarily for fumigation and ritual",
+        "Hung in doorways for protection"
+      ],
+      "Traditional_uses": [
+        "Protective fumigation in households",
+        "Associated with warding practices",
+        "NOT for ingestion"
+      ],
+      "Preparation_forms": [
+        "Fresh sprigs for hanging",
+        "Dried for burning",
+        "Fumigation only"
+      ],
+      "Notes_on_variation": [
+        "Used for ritual rather than therapeutic purposes"
+      ],
+      "Cautions": [
+        "TOXIC if ingested in any significant quantity",
+        "Causes SEVERE skin photosensitivity",
+        "NEVER during pregnancy - strong abortifacient",
+        "Handle with gloves or wash hands thoroughly"
+      ]
+    },
+    "related_plants": ["HERB_039", "HERB_007", "HERB_050"],
+    "tags": ["season:year-round", "region:widespread", "form:fumigation", "use:ritual", "caution:toxic"]
+  },
+  "HERB_009": {
+    "title": "Fennel",
+    "summary": "Versatile herb with sweet anise-flavored seeds used extensively for digestive comfort. Associated with nursing mothers. The bulb, leaves, and seeds all have culinary applications.",
+    "sections": {
+      "Identification": [
+        "Feathery bright green fronds",
+        "Yellow umbrella-shaped flower clusters",
+        "Ribbed oval seeds",
+        "Can grow quite tall"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Cultivated in plains and gardens",
+        "Seeds sold in every spice shop",
+        "Fresh bulbs in vegetable markets",
+        "Known as nafaa (beneficial) or besbas"
+      ],
+      "Traditional_uses": [
+        "Seed infusion for digestive comfort",
+        "Given to nursing mothers (associated with milk production)",
+        "Seeds chewed after meals"
+      ],
+      "Preparation_forms": [
+        "Dried seeds for infusion",
+        "Seeds in cooking and baking",
+        "Fresh bulb as vegetable"
+      ],
+      "Notes_on_variation": [
+        "Bronze fennel exists but green more common",
+        "Seeds vary in size and intensity"
+      ],
+      "Cautions": [
+        "Generally safe in culinary use",
+        "Avoid concentrated preparations during pregnancy due to estrogenic compounds"
+      ]
+    },
+    "related_plants": ["HERB_010", "HERB_013", "HERB_011"],
+    "tags": ["season:summer", "region:plains", "form:dried", "form:infusion", "use:digestive", "use:culinary"]
+  },
+  "HERB_010": {
+    "title": "Anise",
+    "summary": "Sweet licorice-flavored seeds used for digestive comfort and baking. A staple in Moroccan pantries, often given in weak infusions to soothe children.",
+    "sections": {
+      "Identification": [
+        "Small oval ribbed seeds",
+        "Sweet licorice aroma",
+        "Smaller than fennel seeds",
+        "Greyish-green color"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold in spice shops throughout the country",
+        "Often imported",
+        "Used in baking and infusions"
+      ],
+      "Traditional_uses": [
+        "Infusion for digestive comfort",
+        "Very weak infusions traditionally given to fussy infants",
+        "General soothing preparation"
+      ],
+      "Preparation_forms": [
+        "Whole seeds for infusion",
+        "Ground in baking"
+      ],
+      "Notes_on_variation": [
+        "Not the same as star anise (different plant entirely)",
+        "May be confused with fennel seeds"
+      ],
+      "Cautions": [
+        "Safe in culinary amounts",
+        "Avoid therapeutic doses during pregnancy"
+      ]
+    },
+    "related_plants": ["HERB_009", "HERB_013", "HERB_011"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "form:infusion", "use:digestive", "use:culinary"]
+  },
+  "HERB_011": {
+    "title": "Cumin",
+    "summary": "Foundational Moroccan spice with warm earthy flavor. Used in virtually every savory dish. Seed infusion traditionally prepared for digestive comfort.",
+    "sections": {
+      "Identification": [
+        "Small elongated ridged seeds",
+        "Warm, earthy, slightly bitter aroma",
+        "Brown to tan color",
+        "Distinct pungent flavor"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Essential spice in every kitchen",
+        "Sold whole and ground",
+        "Present in tagines, kefta, soups, harira"
+      ],
+      "Traditional_uses": [
+        "Infusion for digestive comfort",
+        "Considered warming"
+      ],
+      "Preparation_forms": [
+        "Whole seeds",
+        "Ground powder",
+        "Infusion"
+      ],
+      "Notes_on_variation": [
+        "Easily confused with caraway by non-locals",
+        "Quality varies significantly"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "Large amounts may be irritating to some"
+      ]
+    },
+    "related_plants": ["HERB_013", "HERB_012", "HERB_009"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "form:ground", "use:culinary", "use:digestive"]
+  },
+  "HERB_012": {
+    "title": "Coriander",
+    "summary": "Dual-purpose herb with fresh leaves and dried seeds used differently. Fresh coriander is essential in Moroccan cooking. Seeds have a completely different, warmer flavor.",
+    "sections": {
+      "Identification": [
+        "Fresh: Flat, parsley-like leaves with distinct citrus aroma",
+        "Seeds: Small round tan seeds with warm nutty flavor",
+        "Annual plant that bolts to seed in heat"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Fresh bundles at every vegetable market",
+        "Seeds in all spice shops",
+        "One of the most used fresh herbs"
+      ],
+      "Traditional_uses": [
+        "Seeds traditionally used for digestive comfort",
+        "Part of spice blends"
+      ],
+      "Preparation_forms": [
+        "Fresh leaves in salads, chermoula, tagines",
+        "Dried seeds whole or ground"
+      ],
+      "Notes_on_variation": [
+        "Leaf taste is genetically divisive - some find it soapy",
+        "Seeds taste completely different from leaves"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "Some have genetic aversion to leaf taste"
+      ]
+    },
+    "related_plants": ["HERB_011", "HERB_009", "HERB_013"],
+    "tags": ["season:year-round", "region:widespread", "form:fresh", "form:dried", "use:culinary", "use:digestive"]
+  },
+  "HERB_013": {
+    "title": "Caraway",
+    "summary": "Warm spice used in breads and as a digestive preparation. Particularly associated with postpartum recovery in traditional practice.",
+    "sections": {
+      "Identification": [
+        "Crescent-shaped ridged seeds",
+        "Warm, slightly sweet, anise-adjacent aroma",
+        "Darker than cumin",
+        "Distinctive flavor"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold in spice shops",
+        "Used in breads and pastries",
+        "Part of traditional postpartum preparations"
+      ],
+      "Traditional_uses": [
+        "Digestive comfort especially after heavy meals",
+        "Associated with postpartum recovery"
+      ],
+      "Preparation_forms": [
+        "Whole seeds in baking",
+        "Ground in dishes",
+        "Infusion"
+      ],
+      "Notes_on_variation": [
+        "Easily confused with cumin by appearance",
+        "Tastes quite different"
+      ],
+      "Cautions": [
+        "Generally safe in culinary use"
+      ]
+    },
+    "related_plants": ["HERB_011", "HERB_009", "HERB_010"],
+    "tags": ["season:year-round", "region:atlas", "form:dried", "use:digestive", "use:culinary"]
+  },
+  "HERB_014": {
+    "title": "Fenugreek",
+    "summary": "Important traditional herb especially for new mothers. Seeds have a distinctive maple-like aroma when cooked. Associated with appetite and strength in recovery.",
+    "sections": {
+      "Identification": [
+        "Small angular tan seeds",
+        "Bitter raw, maple-like when cooked",
+        "Strong distinctive odor",
+        "Clover-like plant"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold in all spice shops",
+        "Associated with postpartum care",
+        "Used in rfissa dish"
+      ],
+      "Traditional_uses": [
+        "Given to new mothers for recovery",
+        "Associated with lactation support",
+        "Considered warming and strengthening"
+      ],
+      "Preparation_forms": [
+        "Whole seeds soaked or cooked",
+        "Ground in spice blends",
+        "Sprouted"
+      ],
+      "Notes_on_variation": [
+        "Strong distinctive smell that permeates",
+        "Causes body odor with heavy use"
+      ],
+      "Cautions": [
+        "May lower blood sugar",
+        "Avoid during pregnancy",
+        "Causes distinctive body odor with regular use"
+      ]
+    },
+    "related_plants": ["HERB_009", "HERB_015", "HERB_011"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "use:postpartum", "use:strengthening"]
+  },
+  "HERB_015": {
+    "title": "Nigella (Black Seed)",
+    "summary": "Highly regarded traditional seed known as habba sawda or sanouj. Considered one of the most valued preparations. Used both culinarily and in traditional wellness practice.",
+    "sections": {
+      "Identification": [
+        "Small angular black seeds",
+        "Slightly bitter, peppery, oregano-like taste",
+        "Distinct appearance",
+        "Aromatic when crushed"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold in all spice and herbal shops",
+        "Sprinkled on breads",
+        "Cold-pressed oil available",
+        "Culturally significant"
+      ],
+      "Traditional_uses": [
+        "General strengthening preparation",
+        "Considered highly beneficial in traditional practice",
+        "Part of cultural and religious tradition"
+      ],
+      "Preparation_forms": [
+        "Whole seeds sprinkled on foods",
+        "Ground",
+        "Cold-pressed oil"
+      ],
+      "Notes_on_variation": [
+        "Sometimes adulterated with other black seeds",
+        "Quality varies"
+      ],
+      "Cautions": [
+        "Generally safe in culinary amounts",
+        "Avoid very large doses during pregnancy"
+      ]
+    },
+    "related_plants": ["HERB_036", "HERB_011", "HERB_014"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "form:oil", "use:strengthening"]
+  },
+  "HERB_016": {
+    "title": "Ginger",
+    "summary": "Warming spice used extensively in Moroccan cooking and traditional preparations. Essential in cold weather. Both fresh and dried forms are common.",
+    "sections": {
+      "Identification": [
+        "Knobby tan rhizome",
+        "Fibrous interior",
+        "Spicy, warm, pungent flavor",
+        "Fresh vs dried have different intensity"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold fresh and dried/ground",
+        "Used in tagines, sweets, beverages",
+        "Preserved in honey"
+      ],
+      "Traditional_uses": [
+        "Digestive comfort",
+        "Warming in cold weather",
+        "Part of winter preparations"
+      ],
+      "Preparation_forms": [
+        "Fresh grated",
+        "Dried ground powder",
+        "Preserved in honey"
+      ],
+      "Notes_on_variation": [
+        "Fresh and dried behave differently in cooking",
+        "Quality varies significantly"
+      ],
+      "Cautions": [
+        "May interact with blood thinners",
+        "Avoid large amounts with gallstones"
+      ]
+    },
+    "related_plants": ["HERB_017", "HERB_018", "HERB_011"],
+    "tags": ["season:year-round", "region:widespread", "form:fresh", "form:dried", "use:digestive", "use:warming"]
+  },
+  "HERB_017": {
+    "title": "Turmeric",
+    "summary": "Golden spice used primarily for coloring and as part of spice blends. Less central to Moroccan cuisine than South Asian but present in ras el hanout and some preparations.",
+    "sections": {
+      "Identification": [
+        "Bright orange-yellow rhizome",
+        "Earthy, slightly bitter flavor",
+        "Stains everything yellow",
+        "Ground powder most common"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold ground in spice shops",
+        "Part of ras el hanout blend",
+        "Used as coloring agent"
+      ],
+      "Traditional_uses": [
+        "Coloring agent",
+        "Part of warming preparations",
+        "Some beauty applications"
+      ],
+      "Preparation_forms": [
+        "Ground powder"
+      ],
+      "Notes_on_variation": [
+        "Sometimes adulterated with cheaper colorants",
+        "Quality varies"
+      ],
+      "Cautions": [
+        "Avoid therapeutic doses with gallbladder issues",
+        "Stains everything permanently"
+      ]
+    },
+    "related_plants": ["HERB_016", "HERB_018", "HERB_028"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "use:coloring", "use:culinary"]
+  },
+  "HERB_018": {
+    "title": "Cinnamon",
+    "summary": "Essential Moroccan spice used in both sweet and savory dishes. Fundamental to pastries, tagines, and beverages. Associated with warmth and hospitality.",
+    "sections": {
+      "Identification": [
+        "Rolled bark sticks or ground powder",
+        "Sweet, warm, spicy aroma",
+        "Brown color",
+        "Cassia (thicker) vs Ceylon (thinner, more delicate)"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold in sticks and powder everywhere",
+        "Used in bastilla, pastries, tagines",
+        "Added to beverages"
+      ],
+      "Traditional_uses": [
+        "Warming preparation",
+        "Comforting in cold weather"
+      ],
+      "Preparation_forms": [
+        "Sticks in cooking",
+        "Ground in baking",
+        "Added to beverages"
+      ],
+      "Notes_on_variation": [
+        "Cassia vs Ceylon often mixed or mislabeled",
+        "Cassia more common and pungent"
+      ],
+      "Cautions": [
+        "Cassia contains coumarin - avoid large daily doses long-term",
+        "Particular caution with liver issues"
+      ]
+    },
+    "related_plants": ["HERB_032", "HERB_016", "HERB_033"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "use:culinary", "use:warming"]
+  },
+  "HERB_019": {
+    "title": "Lavender",
+    "summary": "Abundant wild plant in Moroccan mountains. Dried flowers used for their calming scent. Important for the local distillation industry producing hydrosol (maazhar).",
+    "sections": {
+      "Identification": [
+        "Grey-green narrow leaves",
+        "Purple flower spikes",
+        "Intensely aromatic",
+        "Woody shrub"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Wild in Atlas and Rif mountains",
+        "Sold dried in bundles",
+        "Distilled for hydrosol",
+        "Khemisset region known for production"
+      ],
+      "Traditional_uses": [
+        "Calming infusion",
+        "Dried for scent in homes",
+        "Hydrosol for household use"
+      ],
+      "Preparation_forms": [
+        "Dried flower bundles",
+        "Infusion",
+        "Hydrosol (maazhar)"
+      ],
+      "Notes_on_variation": [
+        "Several species grow in Morocco",
+        "Wild varieties particularly aromatic"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "Avoid ingesting essential oil",
+        "May cause drowsiness"
+      ]
+    },
+    "related_plants": ["HERB_003", "HERB_020", "HERB_031"],
+    "tags": ["season:summer", "region:atlas", "region:rif", "form:dried", "form:hydrosol", "use:calming", "use:aromatic"]
+  },
+  "HERB_020": {
+    "title": "Lemon Verbena (Louiza)",
+    "summary": "One of the most beloved Moroccan tisane herbs. The intensely lemony leaves make a calming evening infusion. Grown in gardens throughout the country.",
+    "sections": {
+      "Identification": [
+        "Long pointed light green leaves",
+        "Intensely lemon-scented when crushed",
+        "Deciduous shrub",
+        "Delicate white flower clusters"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Grown in home gardens everywhere",
+        "Sold fresh and dried",
+        "Evening tea ritual herb"
+      ],
+      "Traditional_uses": [
+        "Calming evening infusion",
+        "Digestive comfort",
+        "Offered to guests"
+      ],
+      "Preparation_forms": [
+        "Fresh leaves in infusion",
+        "Dried for winter use"
+      ],
+      "Notes_on_variation": [
+        "Not the same as regular verbena (Verbena officinalis)",
+        "South American origin but thoroughly adopted"
+      ],
+      "Cautions": [
+        "Generally very safe",
+        "One of the most popular household herbs"
+      ]
+    },
+    "related_plants": ["HERB_001", "HERB_006", "HERB_019"],
+    "tags": ["season:spring", "season:summer", "region:widespread", "form:fresh", "form:dried", "use:calming", "use:digestive"]
+  },
+  "HERB_021": {
+    "title": "Pennyroyal",
+    "summary": "Popular winter infusion herb with a strong minty character. Common in mountain regions. Requires moderation due to toxicity concerns in large amounts.",
+    "sections": {
+      "Identification": [
+        "Small oval leaves on creeping stems",
+        "Strong minty, pungent aroma",
+        "Purple flower whorls",
+        "Grows in wet areas"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Wild in mountain regions near streams",
+        "Sold dried in winter",
+        "Popular household infusion"
+      ],
+      "Traditional_uses": [
+        "Warming winter infusion",
+        "Digestive comfort"
+      ],
+      "Preparation_forms": [
+        "Fresh or dried infusion only",
+        "Moderate use recommended"
+      ],
+      "Notes_on_variation": [
+        "Distinct from spearmint though related",
+        "Much stronger character"
+      ],
+      "Cautions": [
+        "TOXIC in large amounts or as essential oil",
+        "NEVER during pregnancy - abortifacient",
+        "Not for children",
+        "Use only in moderate infusion"
+      ]
+    },
+    "related_plants": ["HERB_001", "HERB_022", "HERB_002"],
+    "tags": ["season:winter", "region:atlas", "form:dried", "form:infusion", "use:digestive", "caution:toxic"]
+  },
+  "HERB_022": {
+    "title": "Marjoram",
+    "summary": "Gentle herb related to oregano but sweeter and milder. Used for calming infusions and in some cooking. Common in northern Morocco.",
+    "sections": {
+      "Identification": [
+        "Small rounded grey-green leaves",
+        "Sweeter and milder than oregano",
+        "Compact knotted flower clusters",
+        "Aromatic"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Wild in Rif and northern mountains",
+        "Sold dried",
+        "Less common than oregano but available"
+      ],
+      "Traditional_uses": [
+        "Gentle calming infusion",
+        "Digestive comfort"
+      ],
+      "Preparation_forms": [
+        "Dried for infusion",
+        "In some cooking"
+      ],
+      "Notes_on_variation": [
+        "Often confused with oregano",
+        "Milder and sweeter"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "Avoid concentrated oil during pregnancy"
+      ]
+    },
+    "related_plants": ["HERB_005", "HERB_002", "HERB_020"],
+    "tags": ["season:summer", "region:rif", "form:dried", "use:calming", "use:digestive"]
+  },
+  "HERB_023": {
+    "title": "Henna",
+    "summary": "Central to Moroccan material culture for hair and skin decoration. Pure henna is generally safe; black henna is dangerous. Associated with celebrations and weekly care routines.",
+    "sections": {
+      "Identification": [
+        "Dried green-brown powder from leaves",
+        "Earthy, grassy smell",
+        "Produces orange-red-brown stain",
+        "Shrub with small leaves"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold everywhere as powder",
+        "Central to weddings and celebrations",
+        "Weekly hair treatment for many women",
+        "Southern oases are production centers"
+      ],
+      "Traditional_uses": [
+        "Hair coloring and conditioning",
+        "Skin decoration for celebrations",
+        "Associated with cooling properties in hot climates"
+      ],
+      "Preparation_forms": [
+        "Powder mixed with liquid to paste",
+        "Applied to hair or skin"
+      ],
+      "Notes_on_variation": [
+        "Quality varies by region",
+        "Pure henna vs adulterated products"
+      ],
+      "Cautions": [
+        "Pure henna generally safe topically",
+        "NEVER use 'black henna' - contains PPD causing severe reactions",
+        "Not for internal use"
+      ]
+    },
+    "related_plants": ["HERB_026", "HERB_027", "HERB_030"],
+    "tags": ["season:summer", "region:souss", "region:draa", "form:powder", "use:hair", "use:skin", "use:ritual"]
+  },
+  "HERB_024": {
+    "title": "Myrtle",
+    "summary": "Aromatic shrub common in northern coastal Morocco. Leaf infusion used for respiratory comfort. Hydrosol distilled and used in households.",
+    "sections": {
+      "Identification": [
+        "Small glossy dark green leaves",
+        "White fragrant flowers",
+        "Dark blue-black berries",
+        "Aromatic when crushed"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Wild in Rif and northern coastal scrubland",
+        "Dried leaves and hydrosol available",
+        "Berries occasionally used"
+      ],
+      "Traditional_uses": [
+        "Leaf infusion for respiratory comfort",
+        "Aromatic use"
+      ],
+      "Preparation_forms": [
+        "Dried leaves",
+        "Hydrosol",
+        "Berries edible"
+      ],
+      "Notes_on_variation": [
+        "Arabic name rihan sometimes confused with basil"
+      ],
+      "Cautions": [
+        "Generally safe in moderate use"
+      ]
+    },
+    "related_plants": ["HERB_025", "HERB_003", "HERB_019"],
+    "tags": ["season:year-round", "region:rif", "form:dried", "form:hydrosol", "use:respiratory", "use:aromatic"]
+  },
+  "HERB_025": {
+    "title": "Eucalyptus",
+    "summary": "Introduced tree now common throughout Morocco. Leaves used for respiratory comfort especially in winter. Steam inhalation is a widespread household practice.",
+    "sections": {
+      "Identification": [
+        "Long sickle-shaped grey-green leaves",
+        "Strong camphoraceous clearing scent",
+        "Tall tree with peeling bark",
+        "Distinctive appearance"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Planted widely especially in Gharb",
+        "Leaves sold dried",
+        "Essential oil available"
+      ],
+      "Traditional_uses": [
+        "Steam inhalation for respiratory comfort",
+        "Added to sick rooms"
+      ],
+      "Preparation_forms": [
+        "Dried leaves for steam",
+        "Weak infusion occasionally"
+      ],
+      "Notes_on_variation": [
+        "Several species exist"
+      ],
+      "Cautions": [
+        "Not for internal use in large amounts",
+        "Keep oil away from face of infants and young children",
+        "Can be toxic if ingested"
+      ]
+    },
+    "related_plants": ["HERB_024", "HERB_002", "HERB_003"],
+    "tags": ["season:year-round", "region:gharb", "form:dried", "use:respiratory"]
+  },
+  "HERB_026": {
+    "title": "Argan",
+    "summary": "Iconic Moroccan endemic tree. Two types of oil: culinary (roasted) and cosmetic (raw). Central to Souss culture and increasingly important economically.",
+    "sections": {
+      "Identification": [
+        "Thorny tree endemic to southwest Morocco",
+        "Small oval fruits with hard nuts",
+        "Gnarled appearance",
+        "UNESCO biosphere protected"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Endemic to Souss-Massa region",
+        "Oil produced by women's cooperatives",
+        "Culinary oil for amlou and dipping",
+        "Cosmetic oil for hair and skin"
+      ],
+      "Traditional_uses": [
+        "Cosmetic oil for skin and hair",
+        "Culinary oil for traditional dishes"
+      ],
+      "Preparation_forms": [
+        "Cold-pressed cosmetic oil",
+        "Roasted culinary oil",
+        "Amlou (almond paste with argan)"
+      ],
+      "Notes_on_variation": [
+        "Cosmetic and culinary oils are different preparations",
+        "Adulteration is common"
+      ],
+      "Cautions": [
+        "Nut allergies possible",
+        "Ensure authentic product",
+        "Don't use culinary oil for cosmetic purposes"
+      ]
+    },
+    "related_plants": ["HERB_037", "HERB_036", "HERB_023"],
+    "tags": ["season:summer", "region:souss", "form:oil", "use:skin", "use:hair", "use:culinary"]
+  },
+  "HERB_027": {
+    "title": "Prickly Pear",
+    "summary": "Ubiquitous naturalized cactus. Fruit eaten fresh in summer. Seed oil is a valued cosmetic. Handle carefully due to tiny spines (glochids).",
+    "sections": {
+      "Identification": [
+        "Flat oval paddle-shaped pads",
+        "Covered in spines and tiny glochids",
+        "Colorful fruit (red, yellow, green)",
+        "Forms dense hedges"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Naturalized everywhere",
+        "Fruit sold on streets in summer",
+        "Seed oil for cosmetics"
+      ],
+      "Traditional_uses": [
+        "Fruit eaten fresh for refreshment",
+        "Seed oil for skin care"
+      ],
+      "Preparation_forms": [
+        "Fresh fruit (peeled carefully)",
+        "Seed oil",
+        "Pads occasionally cooked"
+      ],
+      "Notes_on_variation": [
+        "Many color varieties of fruit"
+      ],
+      "Cautions": [
+        "Handle carefully - tiny glochids cause irritation",
+        "Fruit mildly laxative if eaten in excess"
+      ]
+    },
+    "related_plants": ["HERB_038", "HERB_026", "HERB_044"],
+    "tags": ["season:summer", "region:widespread", "form:fresh", "form:oil", "use:skin", "use:culinary"]
+  },
+  "HERB_028": {
+    "title": "Saffron",
+    "summary": "Precious spice from Taliouine region. Harvested in November. Used for coloring, flavoring, and considered warming and strengthening. Often adulterated.",
+    "sections": {
+      "Identification": [
+        "Deep red thread-like stigmas",
+        "Distinctive honey-hay aroma",
+        "Very lightweight",
+        "Harvested from crocus flowers"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Cultivated in Taliouine and Taznakht",
+        "Sold in small quantities",
+        "Used in special dishes and teas",
+        "Very expensive authentic product"
+      ],
+      "Traditional_uses": [
+        "Considered strengthening and warming",
+        "Used for mood",
+        "Special occasion cooking"
+      ],
+      "Preparation_forms": [
+        "Threads steeped in liquid",
+        "Added to rice, tagines, desserts, tea"
+      ],
+      "Notes_on_variation": [
+        "Often adulterated with safflower, turmeric, or dyed threads",
+        "Authentic saffron is expensive"
+      ],
+      "Cautions": [
+        "Safe in culinary amounts",
+        "Avoid large quantities during pregnancy"
+      ]
+    },
+    "related_plants": ["HERB_017", "HERB_029", "HERB_030"],
+    "tags": ["season:autumn", "region:atlas", "form:dried", "use:culinary", "use:strengthening"]
+  },
+  "HERB_029": {
+    "title": "Orange Blossom",
+    "summary": "The distilled hydrosol (maazhar) is essential to Moroccan hospitality and cuisine. Intensely floral, used in pastries, beverages, and offered in water to guests.",
+    "sections": {
+      "Identification": [
+        "Small white fragrant flowers",
+        "From bitter orange trees",
+        "Intensely perfumed",
+        "Hydrosol is clear liquid"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Bitter orange trees in Fes, Marrakech, Gharb",
+        "Spring distillation season",
+        "Hydrosol sold everywhere",
+        "Essential in pastries and hospitality"
+      ],
+      "Traditional_uses": [
+        "Calming and digestive comfort",
+        "Flavoring for pastries and drinks",
+        "Added to water for guests"
+      ],
+      "Preparation_forms": [
+        "Hydrosol (maazhar)",
+        "Dried flowers occasionally"
+      ],
+      "Notes_on_variation": [
+        "Ensure food-grade hydrosol not perfume quality"
+      ],
+      "Cautions": [
+        "Generally very safe",
+        "Widely used without issues"
+      ]
+    },
+    "related_plants": ["HERB_030", "HERB_020", "HERB_019"],
+    "tags": ["season:spring", "region:fes", "region:marrakech", "form:hydrosol", "use:calming", "use:culinary"]
+  },
+  "HERB_030": {
+    "title": "Rose",
+    "summary": "The Dades Valley 'Valley of Roses' produces Morocco's famous rose products. Hydrosol used for face care and hospitality. Petals at celebrations.",
+    "sections": {
+      "Identification": [
+        "Pink Damascus rose petals",
+        "Intensely fragrant",
+        "Harvested in May",
+        "Famous rose festival (moussem)"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Cultivated in Dades Valley (Kelaat M'Gouna)",
+        "Rose festival in May",
+        "Hydrosol and dried petals sold widely"
+      ],
+      "Traditional_uses": [
+        "Hydrosol for calming and skin",
+        "Face care",
+        "Hospitality and celebrations"
+      ],
+      "Preparation_forms": [
+        "Hydrosol (rose water)",
+        "Dried petals"
+      ],
+      "Notes_on_variation": [
+        "Quality varies widely",
+        "Synthetic additives common in cheap products"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "Ensure authentic product"
+      ]
+    },
+    "related_plants": ["HERB_029", "HERB_019", "HERB_031"],
+    "tags": ["season:spring", "region:dades", "form:hydrosol", "form:dried", "use:skin", "use:aromatic"]
+  },
+  "HERB_031": {
+    "title": "Geranium",
+    "summary": "Rose-scented garden plant kept for its aromatic leaves. Rubbed between hands for pleasant scent. Common in urban gardens and on balconies.",
+    "sections": {
+      "Identification": [
+        "Rounded lobed leaves",
+        "Rose-like scent when rubbed",
+        "Pink flowers",
+        "Bushy garden plant"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Grown in gardens and pots",
+        "Aromatic household plant",
+        "Sometimes distilled"
+      ],
+      "Traditional_uses": [
+        "Aromatic use - leaves rubbed for scent",
+        "Calming association"
+      ],
+      "Preparation_forms": [
+        "Fresh leaves",
+        "Sometimes hydrosol"
+      ],
+      "Notes_on_variation": [
+        "Scented geranium vs common geranium are different"
+      ],
+      "Cautions": [
+        "Generally safe for topical and aromatic use"
+      ]
+    },
+    "related_plants": ["HERB_030", "HERB_019", "HERB_020"],
+    "tags": ["season:year-round", "region:urban", "form:fresh", "use:aromatic"]
+  },
+  "HERB_032": {
+    "title": "Clove",
+    "summary": "Intensely warming spice used in desserts and savory dishes. Chewed traditionally for oral freshness and discomfort. Part of winter preparations.",
+    "sections": {
+      "Identification": [
+        "Small dried flower buds",
+        "Nail-like shape",
+        "Intensely aromatic",
+        "Should be oily when fresh"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold in all spice shops",
+        "Used in desserts and some tagines",
+        "Chewed for mouth freshness"
+      ],
+      "Traditional_uses": [
+        "Chewed for oral discomfort",
+        "Warming preparation"
+      ],
+      "Preparation_forms": [
+        "Whole buds",
+        "Ground"
+      ],
+      "Notes_on_variation": [
+        "Fresh buds should be oily; old ones are dry"
+      ],
+      "Cautions": [
+        "Safe in culinary amounts",
+        "Clove oil can burn mucous membranes",
+        "Avoid large quantities"
+      ]
+    },
+    "related_plants": ["HERB_018", "HERB_033", "HERB_016"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "use:culinary", "use:oral"]
+  },
+  "HERB_033": {
+    "title": "Cardamom",
+    "summary": "Valued aromatic spice added to coffee and tea for hospitality. Part of spice blends. Imported but thoroughly integrated into Moroccan tradition.",
+    "sections": {
+      "Identification": [
+        "Small green pods",
+        "Black seeds inside",
+        "Floral, citrusy, complex aroma",
+        "Distinctive flavor"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold in spice shops",
+        "Added to coffee and tea",
+        "Part of some spice blends"
+      ],
+      "Traditional_uses": [
+        "Added to coffee for hospitality",
+        "Warming preparation"
+      ],
+      "Preparation_forms": [
+        "Whole pods",
+        "Ground"
+      ],
+      "Notes_on_variation": [
+        "Green and black cardamom are different plants"
+      ],
+      "Cautions": [
+        "Generally safe in culinary use"
+      ]
+    },
+    "related_plants": ["HERB_018", "HERB_032", "HERB_016"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "use:culinary"]
+  },
+  "HERB_034": {
+    "title": "Bay Leaf",
+    "summary": "Aromatic leaf used in cooking, less prominent in Moroccan tradition than in European. Added to some tagines and stews.",
+    "sections": {
+      "Identification": [
+        "Stiff oval dark green leaves",
+        "Aromatic when dried",
+        "From laurel tree"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold dried",
+        "Used in some cooking",
+        "Less central than other herbs"
+      ],
+      "Traditional_uses": [
+        "Mainly culinary"
+      ],
+      "Preparation_forms": [
+        "Dried leaves in cooking"
+      ],
+      "Notes_on_variation": [
+        "California bay vs true bay laurel"
+      ],
+      "Cautions": [
+        "Remove from dishes before serving",
+        "Can be sharp if swallowed"
+      ]
+    },
+    "related_plants": ["HERB_002", "HERB_003", "HERB_018"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "use:culinary"]
+  },
+  "HERB_035": {
+    "title": "Black Pepper",
+    "summary": "Foundational spice in Moroccan cooking. Present in virtually every savory dish. Considered warming. Freshly ground preferred.",
+    "sections": {
+      "Identification": [
+        "Small round dried peppercorns",
+        "Sharp, pungent, warm flavor",
+        "Black, white, green are same plant"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Essential in every kitchen",
+        "Sold whole and ground"
+      ],
+      "Traditional_uses": [
+        "Considered warming"
+      ],
+      "Preparation_forms": [
+        "Whole peppercorns",
+        "Ground"
+      ],
+      "Notes_on_variation": [
+        "White and green pepper from same plant"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "May irritate in very large amounts"
+      ]
+    },
+    "related_plants": ["HERB_011", "HERB_016", "HERB_018"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "use:culinary"]
+  },
+  "HERB_036": {
+    "title": "Sesame",
+    "summary": "Seeds used on breads and in pastries. Oil for cooking. Considered nourishing. Both white and black varieties available.",
+    "sections": {
+      "Identification": [
+        "Tiny flat oval seeds",
+        "White or black varieties",
+        "Nutty, rich flavor",
+        "Oil has distinct taste"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "On breads and pastries",
+        "Oil for cooking",
+        "Tahini (ground paste)"
+      ],
+      "Traditional_uses": [
+        "Considered nourishing and strengthening"
+      ],
+      "Preparation_forms": [
+        "Whole seeds",
+        "Oil",
+        "Tahini paste"
+      ],
+      "Notes_on_variation": [
+        "Black sesame more intense than white"
+      ],
+      "Cautions": [
+        "Sesame allergy exists",
+        "Oil can go rancid"
+      ]
+    },
+    "related_plants": ["HERB_015", "HERB_026", "HERB_037"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "form:oil", "use:culinary"]
+  },
+  "HERB_037": {
+    "title": "Olive",
+    "summary": "Fundamental to Moroccan culture and cuisine. Oil and table olives are dietary staples. Leaf infusion used traditionally for general wellness.",
+    "sections": {
+      "Identification": [
+        "Silver-green narrow leaves",
+        "Small oval fruit",
+        "Ancient gnarled trees",
+        "Many local varieties"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Cultivated widely",
+        "Ancient groves in Fes, Meknes, Marrakech",
+        "Oil and table olives essential"
+      ],
+      "Traditional_uses": [
+        "Leaf infusion for general wellness",
+        "Oil applied topically"
+      ],
+      "Preparation_forms": [
+        "Extra virgin oil",
+        "Table olives (many preparations)",
+        "Leaf infusion"
+      ],
+      "Notes_on_variation": [
+        "Many local olive varieties exist"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "Fresh oil best quality"
+      ]
+    },
+    "related_plants": ["HERB_026", "HERB_036", "HERB_043"],
+    "tags": ["season:autumn", "region:widespread", "form:oil", "form:fresh", "use:culinary", "use:skin"]
+  },
+  "HERB_038": {
+    "title": "Aloe Vera",
+    "summary": "Household plant for topical skin care. Gel applied to minor irritations and burns. Common in gardens especially in southern regions.",
+    "sections": {
+      "Identification": [
+        "Thick fleshy pointed leaves",
+        "Clear gel inside",
+        "Rosette growth pattern",
+        "Yellow latex layer under skin"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Garden plant in many households",
+        "Especially common in south",
+        "Commercial gel also available"
+      ],
+      "Traditional_uses": [
+        "Gel for minor skin irritations",
+        "Burns and sunburn",
+        "Hair care"
+      ],
+      "Preparation_forms": [
+        "Fresh gel from leaves"
+      ],
+      "Notes_on_variation": [
+        "Different aloe species exist"
+      ],
+      "Cautions": [
+        "Gel generally safe topically",
+        "Yellow latex is strong laxative - avoid internal use",
+        "May cause skin sensitivity in some"
+      ]
+    },
+    "related_plants": ["HERB_027", "HERB_023", "HERB_026"],
+    "tags": ["season:year-round", "region:souss", "form:fresh", "use:skin"]
+  },
+  "HERB_039": {
+    "title": "Harmel",
+    "summary": "TOXIC plant used ONLY for ritual fumigation. Never ingest. Seeds burned for protective smoke. Extremely dangerous if misused.",
+    "sections": {
+      "Identification": [
+        "Bushy plant with finely divided leaves",
+        "Small white flowers",
+        "Round seed capsules",
+        "Found in dry waste areas"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Seeds sold for fumigation",
+        "Used in protective rituals",
+        "NEVER for ingestion"
+      ],
+      "Traditional_uses": [
+        "Fumigation ONLY",
+        "Protective ritual smoke"
+      ],
+      "Preparation_forms": [
+        "Seeds burned outdoors for smoke only"
+      ],
+      "Notes_on_variation": [
+        "Distinctive plant, hard to confuse"
+      ],
+      "Cautions": [
+        "EXTREMELY TOXIC - contains harmine and harmaline",
+        "Causes hallucinations, seizures, potentially fatal",
+        "NEVER ingest",
+        "NEVER during pregnancy",
+        "Use ONLY for outdoor fumigation"
+      ]
+    },
+    "related_plants": ["HERB_008", "HERB_007", "HERB_050"],
+    "tags": ["season:summer", "region:arid", "form:fumigation", "use:ritual", "caution:toxic"]
+  },
+  "HERB_040": {
+    "title": "Khella",
+    "summary": "Traditional plant with specific historical uses related to urinary and respiratory comfort. Requires knowledgeable guidance.",
+    "sections": {
+      "Identification": [
+        "Umbrella-shaped white flower clusters",
+        "Feathery leaves",
+        "Ribbed seeds",
+        "Apiaceae family"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Found in northern plains",
+        "Sold dried in traditional shops"
+      ],
+      "Traditional_uses": [
+        "Historical use for urinary comfort",
+        "Respiratory applications in folk practice"
+      ],
+      "Preparation_forms": [
+        "Dried seeds and flower heads"
+      ],
+      "Notes_on_variation": [
+        "May be confused with other Apiaceae"
+      ],
+      "Cautions": [
+        "Use only under knowledgeable guidance",
+        "May interact with heart medications",
+        "Causes photosensitivity"
+      ]
+    },
+    "related_plants": ["HERB_009", "HERB_012", "HERB_013"],
+    "tags": ["season:summer", "region:gharb", "form:dried", "use:respiratory", "caution:interactions"]
+  },
+  "HERB_041": {
+    "title": "Carob",
+    "summary": "Traditional food and sweetener. Pods eaten as snacks, powder used as chocolate substitute. Molasses as natural sweetener.",
+    "sections": {
+      "Identification": [
+        "Long brown pods",
+        "Sweet pulp inside",
+        "Large evergreen tree",
+        "Hard seeds"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Wild and cultivated in north",
+        "Pods sold in souks",
+        "Molasses (rob) traditional sweetener"
+      ],
+      "Traditional_uses": [
+        "Nourishing food",
+        "Digestive comfort"
+      ],
+      "Preparation_forms": [
+        "Dried pods eaten",
+        "Ground powder",
+        "Molasses"
+      ],
+      "Notes_on_variation": [
+        "Sometimes mixed with chocolate powder"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "High in natural sugars"
+      ]
+    },
+    "related_plants": ["HERB_043", "HERB_044", "HERB_042"],
+    "tags": ["season:autumn", "region:rif", "form:dried", "use:culinary"]
+  },
+  "HERB_042": {
+    "title": "Jujube",
+    "summary": "Traditional fruit considered nourishing and calming. Eaten fresh or dried like dates. Given to children for strength.",
+    "sections": {
+      "Identification": [
+        "Small oval fruit",
+        "Red-brown when ripe",
+        "Date-like when dried",
+        "Thorny tree"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Cultivated in hot areas",
+        "Fresh and dried in markets"
+      ],
+      "Traditional_uses": [
+        "Nourishing and calming",
+        "Given to children"
+      ],
+      "Preparation_forms": [
+        "Fresh fruit",
+        "Dried"
+      ],
+      "Notes_on_variation": [
+        "Similar to Chinese jujube"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "High sugar when dried"
+      ]
+    },
+    "related_plants": ["HERB_043", "HERB_041", "HERB_044"],
+    "tags": ["season:autumn", "region:hot-areas", "form:fresh", "form:dried", "use:nourishing"]
+  },
+  "HERB_043": {
+    "title": "Date",
+    "summary": "Central to oasis culture and Moroccan hospitality. Many varieties from different regions. Considered highly nourishing and energizing.",
+    "sections": {
+      "Identification": [
+        "Oval sweet fruit",
+        "Range from soft to dry varieties",
+        "From date palm trees",
+        "Many local varieties"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Oases of Tafilalet, Draa, Zagora",
+        "Central to hospitality",
+        "Eaten at Ramadan iftar"
+      ],
+      "Traditional_uses": [
+        "Nourishing and energizing",
+        "Breaking fast"
+      ],
+      "Preparation_forms": [
+        "Fresh dates",
+        "Dried dates",
+        "Date paste"
+      ],
+      "Notes_on_variation": [
+        "Many varieties: Medjool, Boufeggous, etc."
+      ],
+      "Cautions": [
+        "Generally safe",
+        "Very high in sugar"
+      ]
+    },
+    "related_plants": ["HERB_042", "HERB_044", "HERB_041"],
+    "tags": ["season:autumn", "region:oases", "form:fresh", "form:dried", "use:nourishing"]
+  },
+  "HERB_044": {
+    "title": "Fig",
+    "summary": "Ancient cultivated fruit eaten fresh and dried. Dried figs traditional comfort food. Many varieties from different regions.",
+    "sections": {
+      "Identification": [
+        "Soft pear-shaped fruit",
+        "Green or purple skin",
+        "Sweet seedy interior",
+        "From fig trees"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Cultivated widely",
+        "Fresh in summer, dried year-round",
+        "Chefchaouen area famous for figs"
+      ],
+      "Traditional_uses": [
+        "Nourishing food",
+        "Dried figs for digestive comfort"
+      ],
+      "Preparation_forms": [
+        "Fresh",
+        "Dried"
+      ],
+      "Notes_on_variation": [
+        "Many varieties from green to purple"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "Latex from unripe figs irritates skin"
+      ]
+    },
+    "related_plants": ["HERB_043", "HERB_042", "HERB_041"],
+    "tags": ["season:summer", "region:widespread", "form:fresh", "form:dried", "use:nourishing"]
+  },
+  "HERB_045": {
+    "title": "Pomegranate",
+    "summary": "Symbolic fruit in Moroccan culture. Eaten fresh, juiced. Dried peel used traditionally as astringent. Associated with blessings.",
+    "sections": {
+      "Identification": [
+        "Round red fruit",
+        "Filled with juicy seeds",
+        "Hard rind",
+        "Crown-like top"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Gardens and orchards",
+        "Fresh fruit and juice",
+        "Dried peel in traditional use"
+      ],
+      "Traditional_uses": [
+        "Fruit considered strengthening",
+        "Peel as astringent preparation"
+      ],
+      "Preparation_forms": [
+        "Fresh fruit",
+        "Juice",
+        "Dried peel"
+      ],
+      "Notes_on_variation": [
+        "Sweet and sour varieties"
+      ],
+      "Cautions": [
+        "Fruit generally safe",
+        "Bark preparations only under guidance"
+      ]
+    },
+    "related_plants": ["HERB_044", "HERB_043", "HERB_030"],
+    "tags": ["season:autumn", "region:widespread", "form:fresh", "use:nourishing"]
+  },
+  "HERB_046": {
+    "title": "Cassia (Senna)",
+    "summary": "STRONG LAXATIVE. Known specifically for constipation. Not for regular use. Causes dependency and cramping. Short-term only.",
+    "sections": {
+      "Identification": [
+        "Dried leaves and pods",
+        "Bitter taste",
+        "From senna plant"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Sold in herbal shops",
+        "Known specifically as laxative"
+      ],
+      "Traditional_uses": [
+        "Strong laxative only"
+      ],
+      "Preparation_forms": [
+        "Dried leaves or pods in infusion"
+      ],
+      "Notes_on_variation": [
+        "Different from cinnamon cassia"
+      ],
+      "Cautions": [
+        "STRONG LAXATIVE",
+        "Not for regular use - causes dependency",
+        "Causes cramping and electrolyte imbalance",
+        "Avoid during pregnancy",
+        "Not for children",
+        "Short-term only"
+      ]
+    },
+    "related_plants": ["HERB_014", "HERB_007", "HERB_039"],
+    "tags": ["season:year-round", "region:widespread", "form:dried", "use:laxative", "caution:strong"]
+  },
+  "HERB_047": {
+    "title": "Mastic",
+    "summary": "Aromatic resin chewed for oral freshness. Used in some pastries. Greek mastic most valued; local shrub produces similar but different resin.",
+    "sections": {
+      "Identification": [
+        "Small white-yellow resin tears",
+        "Piney fresh taste",
+        "Becomes chewy when chewed",
+        "Aromatic"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Imported Greek mastic most valued",
+        "Local lentisk shrub exists",
+        "Sold in spice shops"
+      ],
+      "Traditional_uses": [
+        "Chewed for oral freshness",
+        "In some desserts",
+        "Aromatic"
+      ],
+      "Preparation_forms": [
+        "Resin tears chewed",
+        "Ground in pastries"
+      ],
+      "Notes_on_variation": [
+        "Greek mastic vs local lentisk resin different"
+      ],
+      "Cautions": [
+        "Generally safe",
+        "Expensive authentic product"
+      ]
+    },
+    "related_plants": ["HERB_032", "HERB_018", "HERB_029"],
+    "tags": ["season:year-round", "region:widespread", "form:resin", "use:oral", "use:aromatic"]
+  },
+  "HERB_048": {
+    "title": "Smen (Aged Butter)",
+    "summary": "Traditional preserved aged butter with strong pungent flavor. Given to new mothers and those recovering. Acquired taste central to traditional cuisine.",
+    "sections": {
+      "Identification": [
+        "Aged clarified butter",
+        "Strong pungent cheesy smell",
+        "Can be aged months to years",
+        "Soft or solid depending on temperature"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Made in homes and sold in souks",
+        "Age determines value",
+        "Used in couscous and tagines"
+      ],
+      "Traditional_uses": [
+        "Given to new mothers",
+        "Considered nourishing and strengthening",
+        "For those recovering"
+      ],
+      "Preparation_forms": [
+        "Aged preserved butter",
+        "Added to dishes"
+      ],
+      "Notes_on_variation": [
+        "Fresh butter vs smen very different"
+      ],
+      "Cautions": [
+        "High in fat",
+        "Acquired taste - very strong flavor"
+      ]
+    },
+    "related_plants": ["HERB_049", "HERB_037", "HERB_043"],
+    "tags": ["season:year-round", "region:widespread", "form:preserved", "use:nourishing", "use:culinary"]
+  },
+  "HERB_049": {
+    "title": "Honey",
+    "summary": "Central to Moroccan wellness tradition and hospitality. Many regional varieties. Used for throat comfort and wound care. Quality varies widely.",
+    "sections": {
+      "Identification": [
+        "Golden to dark liquid",
+        "Various colors by floral source",
+        "Sweet and complex",
+        "Crystallizes naturally"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Beekeeping throughout country",
+        "Regional varieties prized",
+        "Sold in souks and shops"
+      ],
+      "Traditional_uses": [
+        "General strengthening",
+        "Throat comfort",
+        "Applied to wounds",
+        "Hospitality"
+      ],
+      "Preparation_forms": [
+        "Raw honey",
+        "Various floral types"
+      ],
+      "Notes_on_variation": [
+        "Eucalyptus, thyme, wild flower, orange blossom types"
+      ],
+      "Cautions": [
+        "NEVER for infants under 1 year (botulism risk)",
+        "Adulteration common - check quality"
+      ]
+    },
+    "related_plants": ["HERB_002", "HERB_029", "HERB_025"],
+    "tags": ["season:year-round", "region:widespread", "form:raw", "use:nourishing", "use:throat"]
+  },
+  "HERB_050": {
+    "title": "Artemisia (White Wormwood)",
+    "summary": "Important steppe plant different from shiba (absinthium). Used for digestive bitters and fumigation. Less potent than its cousin but still requires moderation.",
+    "sections": {
+      "Identification": [
+        "Grey-white aromatic shrub",
+        "Intensely bitter",
+        "Camphoraceous scent",
+        "Grows in dry steppe"
+      ],
+      "How_it_shows_up_in_Morocco": [
+        "Wild in High Atlas, Anti-Atlas, southern steppes",
+        "Sold dried"
+      ],
+      "Traditional_uses": [
+        "Digestive bitter preparation",
+        "Fumigation"
+      ],
+      "Preparation_forms": [
+        "Dried for infusion",
+        "Burned for fumigation"
+      ],
+      "Notes_on_variation": [
+        "Different from Artemisia absinthium (shiba)",
+        "Less potent but related uses"
+      ],
+      "Cautions": [
+        "Avoid during pregnancy",
+        "Not for prolonged use",
+        "Bitter herbs require moderation"
+      ]
+    },
+    "related_plants": ["HERB_007", "HERB_002", "HERB_008"],
+    "tags": ["season:spring", "season:summer", "region:steppe", "form:dried", "use:digestive", "use:fumigation"]
+  }
+}

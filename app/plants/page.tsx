@@ -1,5 +1,5 @@
 import { getPlants } from "@/lib/plants";
-import PlantIndex from "@/components/PlantIndex";
+import PlantIndexClient from "@/components/PlantIndexClient";
 
 export const metadata = {
   title: "Plant Index",
@@ -20,7 +20,7 @@ export default function PlantsPage() {
           </p>
         </section>
 
-        <PlantIndex plants={plants} />
+        <PlantIndexClient plants={plants} />
       </div>
     </div>
   );

@@ -16,15 +16,21 @@ import {
 
 interface PlantIndexProps {
   plants: Plant[];
+  initialSearch?: string;
+  initialCategory?: UseCategory | "";
 }
 
-export default function PlantIndex({ plants }: PlantIndexProps) {
-  const [search, setSearch] = useState("");
+export default function PlantIndex({
+  plants,
+  initialSearch = "",
+  initialCategory = "",
+}: PlantIndexProps) {
+  const [search, setSearch] = useState(initialSearch);
   const [region, setRegion] = useState<Region | "">("");
   const [season, setSeason] = useState<Season | "">("");
-  const [category, setCategory] = useState<UseCategory | "">("");
+  const [category, setCategory] = useState<UseCategory | "">(initialCategory);
   const [preparation, setPreparation] = useState<PreparationMethod | "">("");
-  const [showAdvanced, setShowAdvanced] = useState(false);
+  const [showAdvanced, setShowAdvanced] = useState(!!initialCategory);
 
   // Get unique filter values from data
   const regions = useMemo(() => {

@@ -1,54 +1,71 @@
+"use client";
+
+import { useState } from "react";
+import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { getPlants } from "@/lib/plants";
 
 export default function Home() {
-  const plants = getPlants();
+  const [query, setQuery] = useState("");
+  const router = useRouter();
+
+  const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (query.trim()) {
+      router.push(`/plants?q=${encodeURIComponent(query.trim())}`);
+    } else {
+      router.push("/plants");
+    }
+  };
 
   return (
     <div className="container">
-      <div className="max-w-2xl">
-        {/* Introduction */}
-        <section className="mb-16">
-          <h1 className="text-3xl md:text-4xl font-serif mb-8">
-            Moroccan Ethnobotanical Reference
-          </h1>
-          <div className="prose">
-            <p>
-              Nabat documents plants traditionally used across Morocco. It records
-              common names, regional presence, seasonal availability, preparation
-              methods, and cultural context.
-            </p>
-            <p>
-              This is an ethnobotanical reference, not a guide to remedies. The
-              information here describes traditional knowledge and cultural
-              practices. It does not constitute medical advice and should not be
-              used to diagnose, treat, or prevent any condition.
-            </p>
-            <p>
-              The scope is Moroccan: plants that grow in or are traditionally used
-              within the country, from the Rif to the Sahara. Where applicable,
-              Arabic and Amazigh names are recorded alongside Latin binomials.
-            </p>
-            <p>
-              Each entry includes cautions. Traditional use does not imply safety.
-              Consult qualified practitioners for health concerns.
-            </p>
-          </div>
-        </section>
+      <div className="min-h-[60vh] flex flex-col items-center justify-center text-center">
+        {/* Logo / Title */}
+        <h1 className="text-5xl md:text-7xl font-serif mb-3 tracking-tight">
+          Nabat
+        </h1>
+        <p className="text-muted mb-10">
+          Moroccan Ethnobotanical Reference
+        </p>
 
-        {/* Browse */}
-        <section>
-          <p className="section-label">Browse</p>
-          <Link
-            href="/plants"
-            className="block py-4 border-t border-b border-border hover:opacity-70 transition-opacity"
-          >
-            <span className="font-serif text-xl">Plant Index</span>
-            <span className="block text-sm text-muted mt-1">
-              {plants.length} entries
-            </span>
+        {/* Search Box */}
+        <form onSubmit={handleSearch} className="w-full max-w-xl mb-8">
+          <input
+            type="text"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="Search plants by name, use, or region..."
+            className="search-input text-center text-lg"
+            autoFocus
+          />
+        </form>
+
+        {/* Quick Links */}
+        <div className="flex flex-wrap justify-center gap-3 mb-16">
+          <Link href="/plants" className="tag hover:opacity-70 transition-opacity">
+            All Plants
           </Link>
-        </section>
+          <Link href="/plants?category=culinary" className="tag hover:opacity-70 transition-opacity">
+            Culinary
+          </Link>
+          <Link href="/plants?category=aromatic" className="tag hover:opacity-70 transition-opacity">
+            Aromatic
+          </Link>
+          <Link href="/plants?category=digestive" className="tag hover:opacity-70 transition-opacity">
+            Digestive
+          </Link>
+          <Link href="/plants?category=skin" className="tag hover:opacity-70 transition-opacity">
+            Skin & Hair
+          </Link>
+          <Link href="/map" className="tag hover:opacity-70 transition-opacity">
+            Map
+          </Link>
+        </div>
+
+        {/* Subtle disclaimer */}
+        <p className="text-xs text-muted max-w-md opacity-60">
+          Ethnobotanical information only. Not medical advice.
+        </p>
       </div>
     </div>
   );

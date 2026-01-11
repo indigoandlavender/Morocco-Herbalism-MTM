@@ -7,9 +7,11 @@ import {
   Region,
   Season,
   UseCategory,
+  PreparationMethod,
   REGION_LABELS,
   SEASON_LABELS,
   USE_CATEGORY_LABELS,
+  PREPARATION_LABELS,
 } from "@/lib/types";
 
 interface PlantIndexProps {
@@ -21,6 +23,8 @@ export default function PlantIndex({ plants }: PlantIndexProps) {
   const [region, setRegion] = useState<Region | "">("");
   const [season, setSeason] = useState<Season | "">("");
   const [category, setCategory] = useState<UseCategory | "">("");
+  const [preparation, setPreparation] = useState<PreparationMethod | "">("");
+  const [showAdvanced, setShowAdvanced] = useState(false);
 
   // Get unique filter values from data
   const regions = useMemo(() => {
@@ -41,89 +45,147 @@ export default function PlantIndex({ plants }: PlantIndexProps) {
     return Array.from(set).sort();
   }, [plants]);
 
+  const preparations = useMemo(() => {
+    const set = new Set<PreparationMethod>();
+    plants.forEach((p) => p.preparation.forEach((pr) => set.add(pr)));
+    return Array.from(set).sort();
+  }, [plants]);
+
   // Filter plants
   const filtered = useMemo(() => {
     return plants.filter((plant) => {
-      // Region filter
       if (region && !plant.region.includes(region)) return false;
-      // Season filter
       if (season && !plant.season.includes(season)) return false;
-      // Category filter
       if (category && !plant.useCategory.includes(category)) return false;
-      // Search filter
+      if (preparation && !plant.preparation.includes(preparation)) return false;
       if (search) {
         const s = search.toLowerCase();
         const matches =
           plant.commonName.toLowerCase().includes(s) ||
           plant.arabicName.includes(search) ||
           plant.latinName.toLowerCase().includes(s) ||
-          (plant.amazighName && plant.amazighName.toLowerCase().includes(s));
+          (plant.amazighName && plant.amazighName.toLowerCase().includes(s)) ||
+          plant.traditionalUses.toLowerCase().includes(s) ||
+          plant.cautions.toLowerCase().includes(s);
         if (!matches) return false;
       }
       return true;
     });
-  }, [plants, region, season, category, search]);
+  }, [plants, region, season, category, preparation, search]);
 
-  const hasFilters = region || season || category || search;
+  const hasFilters = region || season || category || preparation || search;
+
+  const clearFilters = () => {
+    setSearch("");
+    setRegion("");
+    setSeason("");
+    setCategory("");
+    setPreparation("");
+  };
 
   return (
     <div>
       {/* Search */}
-      <div className="mb-8">
+      <div className="mb-6">
         <input
           type="text"
           className="search-input"
-          placeholder="Search by name..."
+          placeholder="Search by name, use, or keyword..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           aria-label="Search plants"
         />
       </div>
 
-      {/* Filters */}
-      <div className="flex flex-wrap gap-4 mb-8">
-        <select
-          className="filter-select"
-          value={region}
-          onChange={(e) => setRegion(e.target.value as Region | "")}
-          aria-label="Filter by region"
+      {/* Advanced Search Toggle */}
+      <div className="mb-6">
+        <button
+          onClick={() => setShowAdvanced(!showAdvanced)}
+          className="text-sm text-muted hover:text-foreground transition-colors"
         >
-          <option value="">All regions</option>
-          {regions.map((r) => (
-            <option key={r} value={r}>
-              {REGION_LABELS[r]}
-            </option>
-          ))}
-        </select>
-
-        <select
-          className="filter-select"
-          value={season}
-          onChange={(e) => setSeason(e.target.value as Season | "")}
-          aria-label="Filter by season"
-        >
-          <option value="">All seasons</option>
-          {seasons.map((s) => (
-            <option key={s} value={s}>
-              {SEASON_LABELS[s]}
-            </option>
-          ))}
-        </select>
-
-        <select
-          className="filter-select"
-          value={category}
-          onChange={(e) => setCategory(e.target.value as UseCategory | "")}
-          aria-label="Filter by use"
-        >
-          <option value="">All uses</option>
-          {categories.map((c) => (
-            <option key={c} value={c}>
-              {USE_CATEGORY_LABELS[c]}
-            </option>
-          ))}
-        </select>
+          {showAdvanced ? "− Hide filters" : "+ Advanced search"}
+        </button>
       </div>
+
+      {/* Filters */}
+      {showAdvanced && (
+        <div className="mb-8 p-4 border border-border bg-surface">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-4">
+            <div>
+              <label className="section-label block mb-2">Region</label>
+              <select
+                className="filter-select w-full"
+                value={region}
+                onChange={(e) => setRegion(e.target.value as Region | "")}
+              >
+                <option value="">All regions</option>
+                {regions.map((r) => (
+                  <option key={r} value={r}>
+                    {REGION_LABELS[r]}
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            <div>
+              <label className="section-label block mb-2">Season</label>
+              <select
+                className="filter-select w-full"
+                value={season}
+                onChange={(e) => setSeason(e.target.value as Season | "")}
+              >
+                <option value="">All seasons</option>
+                {seasons.map((s) => (
+                  <option key={s} value={s}>
+                    {SEASON_LABELS[s]}
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            <div>
+              <label className="section-label block mb-2">Use</label>
+              <select
+                className="filter-select w-full"
+                value={category}
+                onChange={(e) => setCategory(e.target.value as UseCategory | "")}
+              >
+                <option value="">All uses</option>
+                {categories.map((c) => (
+                  <option key={c} value={c}>
+                    {USE_CATEGORY_LABELS[c]}
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            <div>
+              <label className="section-label block mb-2">Preparation</label>
+              <select
+                className="filter-select w-full"
+                value={preparation}
+                onChange={(e) => setPreparation(e.target.value as PreparationMethod | "")}
+              >
+                <option value="">All forms</option>
+                {preparations.map((p) => (
+                  <option key={p} value={p}>
+                    {PREPARATION_LABELS[p]}
+                  </option>
+                ))}
+              </select>
+            </div>
+          </div>
+
+          {hasFilters && (
+            <button
+              onClick={clearFilters}
+              className="text-sm text-muted hover:text-foreground underline"
+            >
+              Clear all filters
+            </button>
+          )}
+        </div>
+      )}
 
       {/* Results count */}
       <p className="section-label mb-4">

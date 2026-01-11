@@ -68,9 +68,22 @@ export default function RootLayout({
         <div className="min-h-screen flex flex-col">
           <header className="py-6 border-b border-border">
             <div className="container">
-              <a href="/" className="inline-block">
-                <span className="text-lg font-serif tracking-tight">Nabat</span>
-              </a>
+              <div className="flex items-center justify-between">
+                <a href="/" className="inline-block">
+                  <span className="text-lg font-serif tracking-tight">Nabat</span>
+                </a>
+                <nav className="flex items-center gap-6 text-sm">
+                  <a href="/plants" className="text-muted hover:text-foreground transition-colors">
+                    Plants
+                  </a>
+                  <a href="/map" className="text-muted hover:text-foreground transition-colors">
+                    Map
+                  </a>
+                  <a href="/sources" className="text-muted hover:text-foreground transition-colors">
+                    Sources
+                  </a>
+                </nav>
+              </div>
             </div>
           </header>
           <main className="flex-1 py-10 md:py-14">{children}</main>
